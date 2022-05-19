@@ -1,7 +1,14 @@
 Datos de Vendedor
-Nombre: René 
-Edad: 38
-Salario mínimo: 100,00
-Número de autos: 1
-Pago mensual: 250,00
+Nombre: salamandra
+Edad: 34
+Salario mínimo: 234,00
+Número de autos: 6
+Pago mensual: 1134,00
+
+Datos de Vendedor
+Nombre: alexis?
+Edad: 34
+Salario mínimo: 632,00
+Número de autos: 4
+Pago mensual: 1232,00
 
